@@ -12,9 +12,9 @@ browser.get(url)
 
 #2a. Login facebook
 txtUser = browser.find_element_by_id("email")
-txtUser.send_keys("0387681482")
+txtUser.send_keys("***")
 txtPass = browser.find_element_by_id("pass")
-txtPass.send_keys("171@3012Hyvy")
+txtPass.send_keys("***")
 txtPass.send_keys(Keys.ENTER)
 
 #3. Lay bai viet
